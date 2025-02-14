@@ -37,6 +37,8 @@ Atualmente estou cursando um Bacharelado em Ciência da Computação na Uninove.
   <img align="center" title="MySQL" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
 </div>
 
+##
+
 <div align="center"><br>
   <a href="https://github.com/Gui-Pires" title="Perfil do Guilherme Pires">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-pires&theme=tokyonight&show_icons=true" />
@@ -45,5 +47,6 @@ Atualmente estou cursando um Bacharelado em Ciência da Computação na Uninove.
 </div>
 
 <div align="center">
-    ![snake gif](https://github.com/Gui-Pires/Gui-Pires/blob/output/github-snake-dark.svg)
+    
+![snake gif](https://github.com/Gui-Pires/Gui-Pires/blob/output/github-snake-dark.svg)
 </div>
