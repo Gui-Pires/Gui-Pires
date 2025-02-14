@@ -3,8 +3,6 @@
 <div style="display: block; width: 100%">
   <a href="https://github.com/Gui-Pires" title="Perfil do Guilherme Pires">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-pires&theme=tokyonight&show_icons=true" />
-  </a>
-  <a href="https://github.com/Gui-Pires" title="Perfil do Guilherme Pires">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-pires&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" />
   </a>
 </div>
