@@ -4,7 +4,7 @@ Sou Guilherme Pires, tenho 22 anos e moro em São Paulo, minha cidade natal. Con
 Atualmente estou cursando um Bacharelado em Ciência da Computação na Uninove. Quero contribuir com o desenvolvimento de novas tecnologias, inovando a maneira de como vemos o mundo de forma sustentável!
 
 <br>
-<p align="left">
+<div align="left">
     <a href="https://github.com/Gui-Pires?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,7 +19,7 @@ Atualmente estou cursando um Bacharelado em Ciência da Computação na Uninove.
             src="https://custom-icon-badges.demolab.com/github/followers/Gui-Pires?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</div>
 
 ##
 
