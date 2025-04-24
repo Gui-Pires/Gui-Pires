@@ -23,7 +23,7 @@ Atualmente estou cursando um Bacharelado em Ciência da Computação na Uninove.
 
 ##
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
   <img align="center" title="HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
