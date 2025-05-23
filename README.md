@@ -1,6 +1,6 @@
 <h1>👨🏽‍💻 Guilherme Pires</h1>
 
-Sou Guilherme Pires, tenho 22 anos e moro em São Paulo, minha cidade natal. Concluí meu ensino médio na Etec de Itaquera, onde também me formei Técnico em Desenvolvimento de Sistemas.
+Sou Guilherme Pires, tenho 23 anos e moro em São Paulo, minha cidade natal. Concluí meu ensino médio na Etec de Itaquera, onde também me formei Técnico em Desenvolvimento de Sistemas.
 Atualmente estou cursando um Bacharelado em Ciência da Computação na Uninove. Quero contribuir com o desenvolvimento de novas tecnologias, inovando a maneira de como vemos o mundo de forma sustentável!
 
 <br>
